@@ -59,7 +59,7 @@ pyparsing==2.4.0
 python-dateutil==2.7.3
 pytz==2019.1
 pywinpty==0.5.4
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.5.1
 requests==2.22.0
