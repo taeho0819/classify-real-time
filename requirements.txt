@@ -82,7 +82,7 @@ testpath==0.3.1
 tf-estimator-nightly==1.14.0.dev2019030115
 tornado==5.1.1
 traitlets==4.3.2
-urllib3==1.25.3
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.15.4
